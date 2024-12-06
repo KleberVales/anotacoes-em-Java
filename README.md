@@ -50,3 +50,5 @@ Budget Left: 60
 
 ### O que Implementar
 1. Anotação @FamilyBudget:
+   - Definir o atributo userRole para identificar o papel do usuário.
+   - Adicionar outro atributo chamado budgetLimit para definir o limite de orçamento.
