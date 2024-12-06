@@ -16,3 +16,11 @@
    - Um número inteiro indicando a quantia gasta (MoneySpend).
 
 ### Exemplo de entrada:
+
+```
+3
+SENIOR 75
+JUNIOR 45
+SENIOR 40
+
+```
