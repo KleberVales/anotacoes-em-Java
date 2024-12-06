@@ -10,3 +10,4 @@
    - Executa o método correspondente ou imprime "Budget Limit Over" se o gasto exceder o orçamento.
 
 ## Formato de Entrada
+1. A primeira linha contém um número inteiro T (quantidade de casos de teste).
