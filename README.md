@@ -14,3 +14,5 @@
 2. Cada caso de teste contém:
    - Uma string representando o papel do usuário (UserRole) — SENIOR ou JUNIOR.
    - Um número inteiro indicando a quantia gasta (MoneySpend).
+
+### Exemplo de entrada:
