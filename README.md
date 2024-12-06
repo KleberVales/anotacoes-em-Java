@@ -11,3 +11,4 @@
 
 ## Formato de Entrada
 1. A primeira linha contém um número inteiro T (quantidade de casos de teste).
+2. Cada caso de teste contém:
