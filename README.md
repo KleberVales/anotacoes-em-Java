@@ -8,3 +8,5 @@
    - Identifica o método correto a ser chamado (por exemplo, seniorMember ou juniorUser) usando a anotação.
    - Verifica se o gasto (money spent) está dentro do orçamento permitido.
    - Executa o método correspondente ou imprime "Budget Limit Over" se o gasto exceder o orçamento.
+
+## Formato de Entrada
