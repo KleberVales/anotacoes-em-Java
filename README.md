@@ -24,3 +24,5 @@ JUNIOR 45
 SENIOR 40
 
 ```
+
+### Formato de Saída
