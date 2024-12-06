@@ -32,3 +32,18 @@ Para cada caso de teste:
 - Caso o gasto exceda o limite, imprima: Budget Limit Over.
 
 ### Exemplo de saída:
+
+```
+Senior Member
+Spend: 75
+Budget Left: 25
+
+Junior Member
+Spend: 45
+Budget Left: 5
+
+Senior Member
+Spend: 40
+Budget Left: 60
+
+```
