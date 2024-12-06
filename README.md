@@ -30,3 +30,5 @@ Para cada caso de teste:
 
 - Imprima informações sobre o papel do usuário (Senior Member ou Junior Member), o valor gasto, e o orçamento restante.
 - Caso o gasto exceda o limite, imprima: Budget Limit Over.
+
+### Exemplo de saída:
